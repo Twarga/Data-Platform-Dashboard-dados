@@ -1130,7 +1130,7 @@ def render_dashboard():
         <div class="panel hero-copy" data-reveal style="--delay: 40ms;">
             <span class="eyebrow">Operations cockpit</span>
             <div class="hero-title-row">
-                <h1 class="page-title">Dashboard</h1>
+                <h1 class="page-title">Data Platform</h1>
                 <span class="status-pill">Warehouse synced</span>
             </div>
             <p class="hero-subtitle">
